@@ -8,9 +8,9 @@ The above python program, The Address Book, has been developed by Shryansh Paras
 
 
 The source code is solely theirs and there is no plagiarism.
-Some information has been taken from internet sources like GeekforGeeks.org and stackoverflow.com for improvements and debugging.
+Some information has been taken from internet sources like geekforgeeks.org and stackoverflow.com for improvements and debugging.
 Assets used belong to their respective owners.
-Based on `Python 3.10.5``
+Based on Python 3.10.5
 
 -------------------------------------------------------------------------------
 
