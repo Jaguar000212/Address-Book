@@ -5,7 +5,7 @@
 
 ---
 
-#### The above python program, The Address Book, has been developed by Shryansh Parashar, aka Jaguar000212.
+__The above python program, The Address Book, has been developed by Shryansh Parashar, aka Jaguar000212.__
 
 - The source code is solely theirs and there is no plagiarism.
 - Some information has been taken from internet sources like __geekforgeeks.org__ and __stackoverflow.com__ for improvements and debugging.
