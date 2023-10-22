@@ -14,8 +14,6 @@ __The above python program, The Address Book, has been developed by Shryansh Par
 
 ---
 
----
-
 ## Libraries used 📃:-
 
 1. Tkinter	- (main library, for GUI)
@@ -30,3 +28,5 @@ __The above python program, The Address Book, has been developed by Shryansh Par
 > Protip : Delete the .db file to reset the App 🙂
 
 ---
+
+⭐ From [Jaguar000212](https://www.github.com/wizard-i)
