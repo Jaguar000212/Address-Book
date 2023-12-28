@@ -12,7 +12,7 @@ class InvalidData(Exception):
 
 try:
     # connect to databse, will be created if not present
-    database = sqlite3.connect(f'./backend/AddressBook.db')
+    database = sqlite3.connect('./backend/AddressBook.db')
 
     # create table if not present in database
     database.execute(
