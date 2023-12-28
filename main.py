@@ -193,7 +193,7 @@ def about():
 
 # Menu bar
 menu = Menu(root)
-menu.add_cascade(label="About", command=lambda: about())  # add about option
+menu.add_cascade(label="About", command=about)  # add about option
 menu.add_cascade(label="Exit", command=root.quit)  # add exit option
 root.config(menu=menu)
 
@@ -367,7 +367,7 @@ Button(view_frame1, text="Home", bg="#be7d53",
        command=lambda: destroy(home_tab, view_tab)).pack(side=LEFT)
 
 Button(view_frame3, text="Delete", bg="#be7d53",
-       command=lambda: delete_data()).pack(side=LEFT)
+       command=delete_data).pack(side=LEFT)
 Button(view_frame3, text="Edit", bg="#be7d53",
        command=lambda: [destroy(edit_tab, view_tab), edit_data(new_profile_image)]).pack(side=LEFT)
 
