@@ -4,7 +4,6 @@ try:
     from tkinter import ttk
     from tkinter import filedialog
     from tkinter.font import Font
-    from tkinter.filedialog import askopenfile
     from PIL import ImageTk, Image
 except ModuleNotFoundError:
     print("Required modules, Tkinter and Pillow, aren't installed.\nTry running installer.py or install them using pip.")
