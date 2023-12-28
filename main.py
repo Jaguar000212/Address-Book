@@ -1,4 +1,5 @@
 # Module Imports
+import sys
 try:
     from tkinter import *
     from tkinter import ttk
@@ -8,13 +9,13 @@ try:
 except ModuleNotFoundError:
     print("Required modules, Tkinter and Pillow, aren't installed.\nTry running installer.py or install them using pip.")
     input("Press Enter to exit")
-    quit()
+    sys.exit()
 try:
     from backend.backend import *
 except ModuleNotFoundError:
     print("Backend files are missing. Re-extract the source code or run the command line in same folder as this file.")
     input("Press Enter to exit")
-    quit()
+    sys.exit()
 
 
 # Tkinter object
