@@ -34,8 +34,7 @@ def retrieve_data(SNo, pfp=False):
     data += f"First Name - {record[1]}\nLast Name - {record[2]}\n     Gender - {record[3]}\n       E-Mail - {record[4]}\n Phone No. - {record[5]}\n    Address - {record[6]}\n"
     if pfp is False:
         return data
-    else:
-        return [data, record[7]]
+    return [data, record[7]]
 
 
 def retrieve_all_data(SNo):
