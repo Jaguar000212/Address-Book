@@ -29,4 +29,4 @@ __The above python program, The Address Book, has been developed by Shryansh Par
 
 ---
 
-⭐ From [Jaguar000212](https://www.github.com/wizard-i)
+⭐ From [Jaguar000212](https://www.github.com/Jaguar000212)
